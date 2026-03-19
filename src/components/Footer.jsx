@@ -47,9 +47,7 @@ export default function Footer() {
 
         <div className="text-center text-slate-600 text-xs">
           <p>
-            &copy; {year} {personal.name}. Built with{' '}
-            <FiHeart className="inline text-red-500 mx-0.5" size={11} />
-            using React & Tailwind CSS.
+            &copy; {year} {personal.name}.
           </p>
         </div>
       </div>
