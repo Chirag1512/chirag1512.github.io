@@ -5,7 +5,7 @@ export const personal = {
   email: 'chiragsolanki.work@gmail.com',
   phone: '+91 7600181856',
   location: 'Petlad, Gujarat, India',
-  linkedin: 'https://linkedin.com/in/chirag-solanki',
+  linkedin: 'www.linkedin.com/in/chiragsolanki15',
   github: 'https://github.com/chiragsolanki',
   objective:
     'Full Stack Developer turned Cloud Developer with 1 year of experience building web applications and managing scalable cloud infrastructure. Passionate about automation, DevOps, and creating efficient, reliable systems.',
